@@ -1,5 +1,5 @@
 # Curriculum Gimpae
-Just a CV template made with Gimp.
+Just a CV template made with Gimp. Based on ModernCV LaTeX template.
 
 Open it with Gimp to edit, then export it to PDF format and voila!
 
